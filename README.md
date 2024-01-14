@@ -1,2 +1,2 @@
 # Completing the steps
-# Connected to VS
+# Connected to VS 2
